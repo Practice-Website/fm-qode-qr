@@ -1,0 +1,30 @@
+@import "tailwindcss";
+body {
+	font-family: "Outfit", sans-serif;
+}
+.islate-900 {
+	color: #1f314f !important;
+}
+.islate-500 {
+	color: #68778d !important;
+}
+.islate-300 {
+	color: #d5e1ef !important;
+}
+.ibg-slate-900 {
+	background-color: #1f314f !important;
+}
+.ibg-slate-500 {
+	background-color: #68778d !important;
+}
+.ibg-slate-300 {
+	background-color: #d5e1ef !important;
+}
+.outfit-bold {
+	font-weight: bold;
+	font-size: 22px;
+}
+.outfit-regular {
+	font-weight: 400;
+	font-size: 15px;
+}
